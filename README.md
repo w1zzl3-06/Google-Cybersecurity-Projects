@@ -1,6 +1,6 @@
 # Google-Cybersecurity-Projects
 
-This repo contains all of the Projects I undertook while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none).
+This repo contains all of the projects and notes I undertook while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none).
 
 You can view my certificate of completion on [Credly](https://www.credly.com/badges/b52dcfe6-5cc2-4ec4-bcfb-3cdf585ac4f6/public_url).
 
